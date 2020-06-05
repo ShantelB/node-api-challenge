@@ -1,0 +1,16 @@
+Mention two parts of Express that you learned about this week.
+Middleware = a form of validation
+Express.Router and Express.server = Routes you to end points
+
+Describe Middleware?
+A basic for of validation for user
+
+Describe a Resource?
+RESTful API = A resource is an object with a type, associated data, relationships to other resources, and a set of methods that operate on it.
+REpresentational State Transfer
+
+What can the API return to help clients know if a request was successful?
+200
+
+How can we partition our application into sub-applications?
+Split them into multiple endpoints so that everything isn't in one folder
